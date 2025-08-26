@@ -13,4 +13,4 @@ namespace webCinestar_webForm_1808.Pages
                 Response.Redirect("index.aspx");
         }
     }
-}//Data Source=Q08LB1102PC15;Initial Catalog=CineStar;Integrated Security=True;Trust Server Certificate=True
+}
